@@ -1,0 +1,14 @@
+{
+  "name": "testinglocations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server":"json-server --watch localisation.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
